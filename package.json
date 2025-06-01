@@ -54,8 +54,9 @@
     "update": "mate-scripts update",
     "postinstall": "npm run update && cypress verify",
     "predeploy": "npm run build",
-    "deploy": "mate-scripts deploy"
+    "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://ihor-opfk.github.io/constructor-discrete",
   "browserslist": {
     "production": [
       ">0.2%",
