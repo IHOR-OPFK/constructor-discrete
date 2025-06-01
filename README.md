@@ -1,8 +1,9 @@
-# React + Vite
+# React TypeScript Starter Pack
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To use this template click `Use this template`
 
-Currently, two official plugins are available:
+### Available Scripts
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+
+`SCSS Preprocessor` - available to write your styles with modern style language
